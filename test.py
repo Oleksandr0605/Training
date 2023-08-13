@@ -8,12 +8,6 @@ def hello():
     """
     # Write your code here
 
-def bye():
-    """
-    Write bye world in this function
-    """
-    # Write your code here
-
 def main():
     """
     Main function
